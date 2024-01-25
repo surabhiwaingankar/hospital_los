@@ -13,12 +13,10 @@ This project aims to predict hospital length of stay using the MIMIC-III dataset
 
 <b>Usage</b>
 <br>
-1. Data Preprocessing:
-
-Follow the steps in data_preprocessing.ipynb to clean and prepare the MIMIC-III dataset.
-2. Model Training:
-
-Execute train_model.ipynb to train the predictive model on the preprocessed data.
+1. Data Preprocessing: Follow the steps in data_preprocessing.ipynb to clean and prepare the MIMIC-III dataset.
+   
+2. Model Training: Execute train_model.ipynb to train the predictive model on the preprocessed data.
+   
 3. Evaluation:
 
 Evaluate the model using evaluate_model.ipynb and analyze its performance metrics.
