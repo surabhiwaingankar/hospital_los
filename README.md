@@ -1,8 +1,9 @@
 # hospital_los
-Overview
+# Overview 
+/n
 This project aims to predict hospital length of stay using the MIMIC-III dataset, a widely used healthcare database. The length of stay prediction is crucial for optimizing resource allocation and improving patient care.
 
-Features
+#Features
 Dataset: We utilize the MIMIC-III database, which provides comprehensive medical records for thousands of patients.
 
 Model: Our predictive model employs [mention the algorithm or model used], leveraging [any specific libraries or frameworks].
